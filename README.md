@@ -21,3 +21,4 @@ python phishing_checker.py
 ```
 
 Enter a URL to check it. Type `q` to exit.
+q
